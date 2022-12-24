@@ -28,4 +28,5 @@ git clone https://github.com/RIDOYxBD/RIDOY-X-BD.git
 
 cd RIDOY-X-BD
 
-python ridoy-bec.py
+python RIDOY-X-BD-idz.py
+
